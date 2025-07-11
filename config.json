@@ -72,6 +72,42 @@
     "wwzy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
+    }, 
+    "sdm3u8": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "xlm3u8": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "xlm3u8资源"
+    },
+    "mac_xlm3u8": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "macxlm3u8资源"
+    },
+    "xlyun": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "xlyun资源"
+    },
+    "mac_xlyun": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "macxlyun资源"
+    },
+    "yym3u8": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
+    },
+    "yym3u8": {
+      "api": "https://cj2.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭2资源"
+    },
+    "xmm": {
+      "api": "http://zy.xmm.hk/api.php/provide/vod",
+      "name": "猫咪资源"
+    },
+    "mac_xmm": {
+      "api": "http://yys.gangko.cn/api.php/provide/vod",
+      "name": "猫咪授权资源"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
